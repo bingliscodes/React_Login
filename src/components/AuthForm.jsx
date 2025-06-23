@@ -1,5 +1,4 @@
 function AuthForm() {
-  console.log("here");
   return (
     <form>
       <p>
